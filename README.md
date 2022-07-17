@@ -1,0 +1,2 @@
+# find lyric in spotify playlist
+gets all songs from spotify playlist using spotipy and then gets all their lyrics using the genius api. All lyrics are written to a lyrics.json file that can be searched through.
